@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "10804ae8-8667-4d34-b66a-311400384770": {
+      "ProjectGuid": "10804ae8-8667-4d34-b66a-311400384770",
+      "DisplayName": "CapgeminiDDD.Infrastructure.Repository",
+      "ColorIndex": 0
+    },
+    "1a020612-cf2d-4dd8-8c4a-3164dd70fca8": {
+      "ProjectGuid": "1a020612-cf2d-4dd8-8c4a-3164dd70fca8",
+      "DisplayName": "CapgeminiDDD.Common.Model",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

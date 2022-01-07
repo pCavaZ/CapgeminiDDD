@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CapgeminiDDD.Infrastructure.Repository/1.0.0": {
+        "dependencies": {
+          "CapgeminiDDD.Common.Model": "1.0.0"
+        },
+        "runtime": {
+          "CapgeminiDDD.Infrastructure.Repository.dll": {}
+        }
+      },
+      "CapgeminiDDD.Common.Model/1.0.0": {
+        "runtime": {
+          "CapgeminiDDD.Common.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CapgeminiDDD.Infrastructure.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CapgeminiDDD.Common.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

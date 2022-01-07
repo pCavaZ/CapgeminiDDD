@@ -1,0 +1,15 @@
+C:\Users\cava\source\repos\CapgeminiDDD\CapgeminiDDD.Infrastructure.Repository\bin\Debug\net5.0\CapgeminiDDD.Infrastructure.Repository.deps.json
+C:\Users\cava\source\repos\CapgeminiDDD\CapgeminiDDD.Infrastructure.Repository\bin\Debug\net5.0\CapgeminiDDD.Infrastructure.Repository.dll
+C:\Users\cava\source\repos\CapgeminiDDD\CapgeminiDDD.Infrastructure.Repository\bin\Debug\net5.0\ref\CapgeminiDDD.Infrastructure.Repository.dll
+C:\Users\cava\source\repos\CapgeminiDDD\CapgeminiDDD.Infrastructure.Repository\bin\Debug\net5.0\CapgeminiDDD.Infrastructure.Repository.pdb
+C:\Users\cava\source\repos\CapgeminiDDD\CapgeminiDDD.Infrastructure.Repository\bin\Debug\net5.0\CapgeminiDDD.Common.Model.dll
+C:\Users\cava\source\repos\CapgeminiDDD\CapgeminiDDD.Infrastructure.Repository\bin\Debug\net5.0\CapgeminiDDD.Common.Model.pdb
+C:\Users\cava\source\repos\CapgeminiDDD\CapgeminiDDD.Infrastructure.Repository\obj\Debug\net5.0\CapgeminiDDD.Infrastructure.Repository.csproj.AssemblyReference.cache
+C:\Users\cava\source\repos\CapgeminiDDD\CapgeminiDDD.Infrastructure.Repository\obj\Debug\net5.0\CapgeminiDDD.Infrastructure.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cava\source\repos\CapgeminiDDD\CapgeminiDDD.Infrastructure.Repository\obj\Debug\net5.0\CapgeminiDDD.Infrastructure.Repository.AssemblyInfoInputs.cache
+C:\Users\cava\source\repos\CapgeminiDDD\CapgeminiDDD.Infrastructure.Repository\obj\Debug\net5.0\CapgeminiDDD.Infrastructure.Repository.AssemblyInfo.cs
+C:\Users\cava\source\repos\CapgeminiDDD\CapgeminiDDD.Infrastructure.Repository\obj\Debug\net5.0\CapgeminiDDD.Infrastructure.Repository.csproj.CoreCompileInputs.cache
+C:\Users\cava\source\repos\CapgeminiDDD\CapgeminiDDD.Infrastructure.Repository\obj\Debug\net5.0\CapgeminiDDD.Infrastructure.Repository.csproj.CopyComplete
+C:\Users\cava\source\repos\CapgeminiDDD\CapgeminiDDD.Infrastructure.Repository\obj\Debug\net5.0\CapgeminiDDD.Infrastructure.Repository.dll
+C:\Users\cava\source\repos\CapgeminiDDD\CapgeminiDDD.Infrastructure.Repository\obj\Debug\net5.0\ref\CapgeminiDDD.Infrastructure.Repository.dll
+C:\Users\cava\source\repos\CapgeminiDDD\CapgeminiDDD.Infrastructure.Repository\obj\Debug\net5.0\CapgeminiDDD.Infrastructure.Repository.pdb

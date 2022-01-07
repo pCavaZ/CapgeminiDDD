@@ -1,0 +1,12 @@
+C:\Users\cava\source\repos\CapgeminiDDD\CapgeminiDDD.Common.Model\bin\Debug\net5.0\CapgeminiDDD.Common.Model.deps.json
+C:\Users\cava\source\repos\CapgeminiDDD\CapgeminiDDD.Common.Model\bin\Debug\net5.0\CapgeminiDDD.Common.Model.dll
+C:\Users\cava\source\repos\CapgeminiDDD\CapgeminiDDD.Common.Model\bin\Debug\net5.0\ref\CapgeminiDDD.Common.Model.dll
+C:\Users\cava\source\repos\CapgeminiDDD\CapgeminiDDD.Common.Model\bin\Debug\net5.0\CapgeminiDDD.Common.Model.pdb
+C:\Users\cava\source\repos\CapgeminiDDD\CapgeminiDDD.Common.Model\obj\Debug\net5.0\CapgeminiDDD.Common.Model.csproj.AssemblyReference.cache
+C:\Users\cava\source\repos\CapgeminiDDD\CapgeminiDDD.Common.Model\obj\Debug\net5.0\CapgeminiDDD.Common.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cava\source\repos\CapgeminiDDD\CapgeminiDDD.Common.Model\obj\Debug\net5.0\CapgeminiDDD.Common.Model.AssemblyInfoInputs.cache
+C:\Users\cava\source\repos\CapgeminiDDD\CapgeminiDDD.Common.Model\obj\Debug\net5.0\CapgeminiDDD.Common.Model.AssemblyInfo.cs
+C:\Users\cava\source\repos\CapgeminiDDD\CapgeminiDDD.Common.Model\obj\Debug\net5.0\CapgeminiDDD.Common.Model.csproj.CoreCompileInputs.cache
+C:\Users\cava\source\repos\CapgeminiDDD\CapgeminiDDD.Common.Model\obj\Debug\net5.0\CapgeminiDDD.Common.Model.dll
+C:\Users\cava\source\repos\CapgeminiDDD\CapgeminiDDD.Common.Model\obj\Debug\net5.0\ref\CapgeminiDDD.Common.Model.dll
+C:\Users\cava\source\repos\CapgeminiDDD\CapgeminiDDD.Common.Model\obj\Debug\net5.0\CapgeminiDDD.Common.Model.pdb
